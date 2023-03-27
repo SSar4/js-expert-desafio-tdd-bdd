@@ -1,0 +1,16 @@
+[
+    {
+        "id": "d946aef3-7532-4e7b-a843-d0ff5c48fd30",
+        "name": "V90",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailabel": true
+    },
+    {
+        "id": "ccb708ae-300c-48ca-85c7-17bdcf9f7cae",
+        "name": "PT Cruiser",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailabel": true
+    }
+]
